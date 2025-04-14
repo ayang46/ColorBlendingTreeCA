@@ -53,7 +53,8 @@ Example outputs from different runs:
   <img src="./assets/step6.png" width="45%" alt="Colorful Pattern 2">
 </div>
 
-[![Watch the video](./assets/CAColorBlendFinal.png)](https://youtu.be/vt5fpE0bzSY)
+### 4. Demo
+[![Watch the video](./assets/CAColorBlendFinal.png)](https://youtu.be/nXKzTjxYafY)
 
 ## Requirements
 
