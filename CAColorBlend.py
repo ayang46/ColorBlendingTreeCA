@@ -107,7 +107,7 @@ def draw_grid():
                 
                 # Highlight cells that reached the target
                 if current_distance < 5:
-                    # Red border for exact matches
+                    # Black border for exact matches
                     outline = "black" if current_distance == min_distance else "white"
                     width = 5 if current_distance == min_distance else 2
                 else:
